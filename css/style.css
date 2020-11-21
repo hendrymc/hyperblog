@@ -2,4 +2,6 @@ body {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     text-transform: uppercase;
+    color: red;
+    letter-spacing: 1ch;
 }
